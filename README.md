@@ -1,4 +1,4 @@
-HeinrichDev.github.io
+HeinrichDev getting started
 =====================
 
 Blog site tinkering
